@@ -1,3 +1,4 @@
 # Misol uchun .venv yoki env kabi nomlarda
 .venv/
 env/
+venv/
