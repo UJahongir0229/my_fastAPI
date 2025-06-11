@@ -1,5 +1,12 @@
-# Misol uchun .venv yoki env kabi nomlarda
+# Virtual environment
+venv/
 .venv/
 env/
-venv/
-venv
+
+# PyCharm IDE
+.idea/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
